@@ -34,7 +34,7 @@ BEGIN
     SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'Insufficient stock';
   ELSE
     INSERT INTO Orders (CustomerID, PaymentMethod)
-    VALUES (p_CustomerID, p_PaymentMethod);
+    VALUES (p_CustomerID, p_PaymentMethod); 
 
     SET v_order_id = LAST_INSERT_ID();
 
