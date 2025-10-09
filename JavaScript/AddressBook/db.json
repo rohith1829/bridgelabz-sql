@@ -1,0 +1,40 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "fullName": "Varaca Mishradcs",
+      "phoneNumber": "0222801775",
+      "address": "Marve Road, Next To Maniratna, Malad (west)fef",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": "400064"
+    },
+    {
+      "id": "2",
+      "fullName": "Trishna Bhalla",
+      "address": "77,rd Flr, Desaichambers, Nagdevi X Lane, Masjid Bunder (west)",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": "400003",
+      "phoneNumber": "02223420607"
+    },
+    {
+      "id": "c5b1",
+      "fullName": "rohith",
+      "phoneNumber": "7396969347",
+      "address": "banglore",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": "515231"
+    },
+    {
+      "id": "c0b4",
+      "fullName": "sdfs",
+      "phoneNumber": "sdc",
+      "address": "sdcssss",
+      "city": "Jaipur",
+      "state": "Jharkhand",
+      "zipCode": "sfs"
+    }
+  ]
+}
